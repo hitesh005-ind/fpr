@@ -1,0 +1,201 @@
+date,product,category,price,quantity_sold,total_sales
+2025-01-01,T-Shirt,Clothing,117.19,14,1640.66
+2025-01-02,Blender,Home & Kitchen,283.47,5,1417.35
+2025-01-03,Headphones,Electronics,207.88,12,2494.56
+2025-01-04,Blender,Home & Kitchen,41.8,16,668.8
+2025-01-05,Blender,Home & Kitchen,134.42,16,2150.72
+2025-01-06,Smartphone,Electronics,130.97,7,916.79
+2025-01-07,Headphones,Electronics,351.19,4,1404.76
+2025-01-08,Headphones,Electronics,359.01,1,359.01
+2025-01-09,Headphones,Electronics,82.56,5,412.8
+2025-01-10,Blender,Home & Kitchen,498.89,10,4988.9
+2025-01-11,T-Shirt,Clothing,140.72,5,703.6
+2025-01-12,Headphones,Electronics,488.54,4,1954.16
+2025-01-13,Novel,Books,211.41,2,422.82
+2025-01-14,Blender,Home & Kitchen,26.19,10,261.9
+2025-01-15,Smartphone,Electronics,179.08,19,3402.52
+2025-01-16,T-Shirt,Clothing,,1,320.83
+2025-01-17,Novel,Books,343.55,5,1717.75
+2025-01-18,Novel,Books,270.16,13,3512.08
+2025-01-19,Smartphone,Electronics,229.41,4,917.64
+2025-01-20,T-Shirt,Clothing,280.92,16,4494.72
+2025-01-21,Blender,Home & Kitchen,300.42,16,4806.72
+2025-01-22,Laptop,Electronics,49.62,2,99.24
+2025-01-23,T-Shirt,Clothing,191.13,17,3249.21
+2025-01-24,Smartphone,Electronics,128.66,12,1543.92
+2025-01-25,Novel,Books,403.54,18,7263.72
+2025-01-26,Blender,Home & Kitchen,240.45,3,721.35
+2025-01-27,T-Shirt,Clothing,491.88,1,491.88
+2025-01-28,Laptop,Electronics,205.42,1,205.42
+2025-01-29,Laptop,Electronics,410.05,19,7790.95
+2025-01-30,Headphones,Electronics,401.19,11,4413.09
+2025-01-31,Headphones,Electronics,83.85,-5,419.25
+2025-02-01,Smartphone,Electronics,259.02,12,3108.24
+2025-02-02,T-Shirt,Clothing,350.95,3,1052.85
+2025-02-03,T-Shirt,Clothing,430.6,1,430.6
+2025-02-04,Novel,Books,169.72,1,169.72
+2025-02-05,Novel,Books,117.92,8,943.36
+2025-02-06,Novel,Books,358.46,10,3584.6
+2025-02-07,Headphones,Electronics,406.66,11,4473.26
+2025-02-08,T-Shirt,Clothing,180.85,12,2170.2
+2025-02-09,T-Shirt,Clothing,57.13,13,742.69
+2025-02-10,Laptop,Electronics,470.86,12,5650.32
+2025-02-11,Headphones,Electronics,204.81,14,2867.34
+2025-02-12,Blender,Home & Kitchen,263.7,2,527.4
+2025-02-13,Headphones,Electronics,420.48,19,7989.12
+2025-02-14,Blender,Home & Kitchen,341.09,18,6139.62
+2025-02-15,,Electronics,370.26,3,1110.78
+2025-02-16,Smartphone,Electronics,112.45,17,1911.65
+2025-02-17,T-Shirt,Clothing,275.31,8,2202.48
+2025-02-18,Laptop,Electronics,350.93,10,3509.3
+2025-02-19,T-Shirt,Clothing,121.99,2,243.98
+2025-02-20,Novel,Books,95.73,19,1818.87
+2025-02-21,Smartphone,Electronics,491.26,9,4421.34
+2025-02-22,Smartphone,Electronics,263.15,7,1842.05
+2025-02-23,Laptop,Electronics,137.81,4,551.24
+2025-02-24,Smartphone,Electronics,498.16,18,8966.88
+2025-02-25,Blender,Home & Kitchen,483.06,13,6279.78
+2025-02-26,Smartphone,Electronics,283.56,11,3119.16
+2025-02-27,T-Shirt,Clothing,442.49,4,1769.96
+2025-02-28,T-Shirt,Clothing,102.47,4,409.88
+2025-03-01,T-Shirt,Clothing,146.65,10,1466.5
+2025-03-02,T-Shirt,Clothing,353.18,5,1765.9
+2025-03-03,Blender,Home & Kitchen,424.86,9,3823.74
+2025-03-04,Headphones,Electronics,429.6,3,1288.8
+2025-03-05,Novel,Books,208.21,17,3539.57
+2025-03-06,Laptop,Electronics,445.01,3,1335.03
+2025-03-07,T-Shirt,Clothing,426.95,16,6831.2
+2025-03-08,Smartphone,Electronics,468.46,4,1873.84
+2025-03-09,T-Shirt,Clothing,394.82,18,7106.76
+2025-03-10,Smartphone,Electronics,337.8,17,5742.6
+2025-03-11,Novel,Books,294.54,7,2061.78
+2025-03-12,Novel,Books,192.42,5,962.1
+2025-03-13,Novel,Books,470.67,12,5648.04
+2025-03-14,Smartphone,Electronics,487.1,17,8280.7
+2025-03-15,T-Shirt,Clothing,149.12,13,1938.56
+2025-03-16,Novel,Books,159.63,3,478.89
+2025-03-17,Blender,Home & Kitchen,247.95,9,2231.55
+2025-03-18,Smartphone,Electronics,229.73,17,3905.41
+2025-03-19,Smartphone,Electronics,497.28,17,8453.76
+2025-03-20,T-Shirt,Clothing,96.2,16,1539.2
+2025-03-21,Smartphone,Electronics,18.86,13,245.18
+2025-03-22,Smartphone,Electronics,252.01,19,4788.19
+2025-03-23,Novel,Books,97.62,17,1659.54
+2025-03-24,T-Shirt,Clothing,189.57,4,758.28
+2025-03-25,Novel,Books,374.64,12,4495.68
+2025-03-26,Novel,Books,363.26,9,3269.34
+2025-03-27,T-Shirt,Clothing,160.95,19,3058.05
+2025-03-28,Laptop,Electronics,275.84,12,3310.08
+2025-03-29,Novel,Books,259.32,9,2333.88
+2025-03-30,Blender,Home & Kitchen,321.8,7,2252.6
+2025-03-31,Blender,Home & Kitchen,132.73,14,1858.22
+2025-04-01,Smartphone,Electronics,299.04,19,5681.76
+2025-04-02,Blender,Home & Kitchen,489.66,15,7344.9
+2025-04-03,Smartphone,Electronics,248.5,16,3976.0
+2025-04-04,Laptop,Electronics,453.99,5,2269.95
+2025-04-05,T-Shirt,Clothing,222.85,3,668.55
+2025-04-06,T-Shirt,Clothing,181.54,12,2178.48
+2025-04-07,T-Shirt,Clothing,326.1,4,1304.4
+2025-04-08,Blender,Home & Kitchen,337.77,16,5404.32
+2025-04-09,Laptop,Electronics,433.44,7,3034.08
+2025-04-10,Blender,Home & Kitchen,122.79,13,1596.27
+2025-04-11,Blender,Home & Kitchen,254.6,10,2546.0
+2025-04-12,Laptop,Electronics,290.28,7,2031.96
+2025-04-13,Laptop,Electronics,386.59,14,5412.26
+2025-04-14,Laptop,Electronics,31.37,5,156.85
+2025-04-15,Laptop,Electronics,497.33,3,1491.99
+2025-04-16,T-Shirt,Clothing,240.27,11,2642.97
+2025-04-17,Headphones,Electronics,146.98,11,1616.78
+2025-04-18,Headphones,Electronics,442.91,18,7972.38
+2025-04-19,Laptop,Electronics,376.38,15,5645.7
+2025-04-20,Headphones,Electronics,477.01,12,5724.12
+2025-04-21,Headphones,Electronics,172.07,9,1548.63
+2025-04-22,Laptop,Electronics,280.85,10,2808.5
+2025-04-23,Headphones,Electronics,290.42,12,3485.04
+2025-04-24,Blender,Home & Kitchen,490.36,17,8336.12
+2025-04-25,Smartphone,Electronics,46.92,6,281.52
+2025-04-26,Smartphone,Electronics,159.79,7,1118.53
+2025-04-27,Laptop,Electronics,103.55,14,1449.7
+2025-04-28,T-Shirt,Clothing,141.55,13,1840.15
+2025-04-29,Laptop,Electronics,247.79,8,1982.32
+2025-04-30,T-Shirt,Clothing,192.62,10,1926.2
+2025-05-01,Smartphone,Electronics,203.4,9,1830.6
+2025-05-02,Laptop,Electronics,423.66,18,7625.88
+2025-05-03,Novel,Books,465.71,2,931.42
+2025-05-04,Blender,Home & Kitchen,44.5,5,222.5
+2025-05-05,Headphones,Electronics,112.37,5,561.85
+2025-05-06,T-Shirt,Clothing,338.86,6,2033.16
+2025-05-07,Novel,Books,185.74,19,3529.06
+2025-05-08,Headphones,Electronics,134.54,8,1076.32
+2025-05-09,Headphones,Electronics,154.69,16,2475.04
+2025-05-10,Laptop,Electronics,168.05,13,2184.65
+2025-05-11,Headphones,Electronics,425.85,1,425.85
+2025-05-12,Blender,Home & Kitchen,76.94,17,1307.98
+2025-05-13,Novel,Books,357.37,7,2501.59
+2025-05-14,Headphones,Electronics,280.88,13,3651.44
+2025-05-15,Laptop,Electronics,155.29,4,621.16
+2025-05-16,Blender,Home & Kitchen,215.69,4,862.76
+2025-05-17,Smartphone,Electronics,135.54,6,813.24
+2025-05-18,Novel,Books,309.64,19,5883.16
+2025-05-19,Headphones,Electronics,49.98,12,599.76
+2025-05-20,Laptop,Electronics,12.54,7,87.78
+2025-05-21,Smartphone,Electronics,317.67,10,3176.7
+2025-05-22,Smartphone,Electronics,105.19,19,1998.61
+2025-05-23,T-Shirt,Clothing,44.76,7,313.32
+2025-05-24,Blender,Home & Kitchen,204.42,3,613.26
+2025-05-25,Headphones,Electronics,34.88,13,453.44
+2025-05-26,Laptop,Electronics,444.44,13,5777.72
+2025-05-27,T-Shirt,Clothing,23.53,18,423.54
+2025-05-28,Blender,Home & Kitchen,293.64,8,2349.12
+2025-05-29,T-Shirt,Clothing,224.85,9,2023.65
+2025-05-30,Novel,Books,339.29,7,2375.03
+2025-05-31,Blender,Home & Kitchen,170.79,1,170.79
+2025-06-01,Blender,Home & Kitchen,85.97,3,257.91
+2025-06-02,Headphones,Electronics,491.1,13,6384.3
+2025-06-03,Blender,Home & Kitchen,421.08,17,7158.36
+2025-06-04,T-Shirt,Clothing,431.6,1,431.6
+2025-06-05,Blender,Home & Kitchen,132.62,6,795.72
+2025-06-06,Headphones,Electronics,29.03,6,174.18
+2025-06-07,Headphones,Electronics,158.6,12,1903.2
+2025-06-08,Novel,Books,273.17,13,3551.21
+2025-06-09,T-Shirt,Clothing,170.06,13,2210.78
+2025-06-10,Smartphone,Electronics,415.66,15,6234.9
+2025-06-11,Smartphone,Electronics,143.06,16,2288.96
+2025-06-12,Blender,Home & Kitchen,482.97,11,5312.67
+2025-06-13,Novel,Books,234.06,5,1170.3
+2025-06-14,Laptop,Electronics,422.59,4,1690.36
+2025-06-15,Blender,Home & Kitchen,105.25,3,315.75
+2025-06-16,Novel,Books,211.56,19,4019.64
+2025-06-17,T-Shirt,Clothing,352.76,18,6349.68
+2025-06-18,T-Shirt,Clothing,77.79,15,1166.85
+2025-06-19,T-Shirt,Clothing,75.05,9,675.45
+2025-06-20,T-Shirt,Clothing,485.07,17,8246.19
+2025-06-21,T-Shirt,Clothing,360.15,14,5042.1
+2025-06-22,Novel,Books,30.12,15,451.8
+2025-06-23,Novel,Books,205.42,1,205.42
+2025-06-24,Headphones,Electronics,222.43,3,667.29
+2025-06-25,Smartphone,Electronics,374.58,16,5993.28
+2025-06-26,T-Shirt,Clothing,132.92,11,1462.12
+2025-06-27,Laptop,Electronics,100.32,12,1203.84
+2025-06-28,Novel,Books,49.63,10,496.3
+2025-06-29,Laptop,Electronics,219.87,16,3517.92
+2025-06-30,Laptop,Electronics,347.36,8,2778.88
+2025-07-01,Laptop,Electronics,38.51,6,231.06
+2025-07-02,Headphones,Electronics,458.45,12,5501.4
+2025-07-03,Novel,Books,226.75,8,1814.0
+2025-07-04,Laptop,Electronics,127.5,4,510.0
+2025-07-05,T-Shirt,Clothing,56.0,8,448.0
+2025-07-06,Blender,Home & Kitchen,99.6,18,1792.8
+2025-07-07,Laptop,Electronics,467.96,5,2339.8
+2025-07-08,Headphones,Electronics,322.75,9,2904.75
+2025-07-09,Novel,Books,263.18,4,1052.72
+2025-07-10,Headphones,Electronics,331.98,17,5643.66
+2025-07-11,Laptop,Electronics,223.48,9,2011.32
+2025-07-12,Novel,Books,367.72,1,367.72
+2025-07-13,Blender,Home & Kitchen,33.38,13,433.94
+2025-07-14,Laptop,Electronics,287.36,16,4597.76
+2025-07-15,Headphones,Electronics,87.74,13,1140.62
+2025-07-16,Smartphone,Electronics,68.88,14,964.32
+2025-07-17,T-Shirt,Clothing,177.52,3,532.56
+2025-07-18,Headphones,Electronics,54.98,6,329.88
+2025-07-19,Novel,Books,56.14,18,1010.52
